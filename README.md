@@ -1,10 +1,20 @@
-# GBYTE PLACE — Version 3
+# GBYTE PLACE Homepage Version 4
 
-## Updates
-- Public branding displays GBYTE PLACE only.
-- The business email address is not visible on the website.
-- Contact and talent forms still route privately to the configured business inbox.
-- The legal company name remains only in company-history and copyright text.
+Files in this update:
+- index.html
+- assets/styles.css
+- assets/script.js
+- assets/gbyte-logo-mark.png
+- assets/gbyte-logo-full.png
 
-## Redeploy
-Upload this updated package to the existing Vercel project. No GoDaddy DNS changes are required.
+## Apply through GitHub
+Upload `index.html` and the complete `assets` folder to your repository root.
+Choose **Replace** when GitHub detects existing files, then commit to `main`.
+Vercel will deploy automatically.
+
+This update redesigns the homepage, integrates the current GP logo mark, shortens the messaging, and adds:
+- Why GBYTE PLACE
+- Solutions
+- How It Works
+- Industry cards
+- Stronger calls to action
