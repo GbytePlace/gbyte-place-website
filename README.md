@@ -11,4 +11,4 @@ The HTML pages share `assets/styles.css`, `assets/script.js`, and the logo mark.
 3. Check desktop and mobile layouts, keyboard navigation, links, forms, and response headers. Confirm production pages remain indexable, with noindex retained on the thank-you and 404 pages.
 4. Merge only after review and approval. Merging to `main` may trigger a Vercel production deployment; verify the production site afterward.
 
-The 2026-10-25 synchronization uses the approved production files recorded in the launch package. Form delivery was confirmed by the owner after launch. Resume uploads remain unavailable pending secure handling; optional profile links remain available.
+The 2026-10-25 synchronization uses the approved production files recorded in the launch package. Form delivery was confirmed by the owner after launch. Online talent applications and CV submissions are closed. careers.html is a noindex closure page for old links; the only active website form is the business inquiry form.
